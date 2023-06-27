@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm M. Saqib Naeem</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan.</h3>
+<h1>Hi 👋, I'm Saqib Naeem</h1>
+<p>A passionate full-stack developer from Pakistan. Currently working at <a href="https://nextbridge.com/">NextBridge :heart_eyes:</a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-saqib-naeem&label=Profile%20views&color=0e75b6&style=flat" alt="m-saqib-naeem" /> </p>
+<div id="badges">
+  <a href="[your-linkedin-URL](https://linkedin.com/in/sh-m-saqib-naeem-a3058b28)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/saqib_naeem123)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-saqib-naeem" alt="m-saqib-naeem" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/saqib_naeem123" target="blank"><img src="https://img.shields.io/twitter/follow/saqib_naeem123?logo=twitter&style=for-the-badge" alt="saqib_naeem123" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce in NESTJS**
 
