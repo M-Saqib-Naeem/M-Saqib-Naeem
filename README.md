@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-- 🔭 I’m currently working on **E-Commerce in NESTJS**
+- 🔭 I’m currently working on **Learning Yii2 Framework**
 
 <h3>Some of my work</h3>
 <h4>WordPress custom plugins</h4>
@@ -26,7 +26,10 @@
 - I have **developed themes leveraging Elementor**, incorporating custom widgets to deliver captivating and functional designs. These themes are meticulously tailored to meet the unique requirements of clients, facilitating an engaging and visually appealing web presence.
 
 
-
+<h3 align="left">Previously worked on:</h3>
+- E-commerce in NestJS
+- Laravel existing project customizations
+- Learning NextJS and building my first application 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
