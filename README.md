@@ -12,6 +12,12 @@
 - 🔭 I’m currently working on **Learning Yii2 Framework**
 
 <h3>Some of my work</h3>
+<h4>Laravel Development</h4>
+
+- Development of an educational portal in Laravel
+- Multi-auth user authentication
+- Laravel + MySQL + MongoDB
+
 <h4>WordPress custom plugins</h4>
 
 - The **Salary Range Filter** add-on integrated into Simple Job Board as a WordPress plugin designed to facilitate job listing management by offering the capability to filter job results based on specific salary criteria.
