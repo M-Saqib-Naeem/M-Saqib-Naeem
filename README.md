@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-- 🔭 I’m currently working on **Learning Yii2 Framework**
+- 🔭 I’m currently working on **Laravel**
 
 <h3>Some of my work</h3>
 <h4>Laravel Development</h4>
